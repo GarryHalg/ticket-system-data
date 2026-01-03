@@ -1,1 +1,1 @@
-{"tickets":[{"number":"TICKET-001","title":"тест","description":"тест","createdAt":"2026-01-03T23:43:45","isOpen":true,"closedBy":""}],"lastUpdate":"2026-01-03T23:43:45","ticketCounter":2}
+{"tickets":[{"number":"TICKET-001","title":"тест","description":"тест","createdAt":"2026-01-03T23:43:45","isOpen":true,"closedBy":""},{"number":"TICKET-002","title":"тест","description":"тест","createdAt":"2026-01-03T23:56:40","isOpen":true,"closedBy":""}],"lastUpdate":"2026-01-03T23:56:40","ticketCounter":3}
