@@ -1,1 +1,1 @@
-{"tickets":[{"number":"TICKET-001","title":"ооо","description":"ооо","createdAt":"2026-01-03T23:22:49","isOpen":true,"closedBy":""}],"lastUpdate":"2026-01-03T23:22:49","ticketCounter":2}
+{"tickets":[{"number":"TICKET-001","title":"Тестовая заявка 23:23:09","description":"Это тестовое описание для проверки работы системы","createdAt":"2026-01-03T23:23:10","isOpen":true,"closedBy":""}],"lastUpdate":"2026-01-03T23:23:10","ticketCounter":2}
