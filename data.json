@@ -1,1 +1,5 @@
-{"tickets":[{"number":1,"title":"Заявка #001","description":"Это тестовое описание для проверки работы системы","createdAt":"2026-01-06T21:47:59","isOpen":false,"isOverdue":false,"closedAt":"2026-01-07T00:08:44","closedBy":"Работник"}],"lastUpdate":"2026-01-07T00:08:44","ticketCounter":2}
+{
+  "tickets": [],
+  "lastUpdate": "2024-01-01T00:00:00",
+  "ticketCounter": 1
+}
